@@ -1,0 +1,2 @@
+This is from test1.txt  
+from first command line argument to be precise
