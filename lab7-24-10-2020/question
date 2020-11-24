@@ -1,0 +1,4 @@
+i)Write a Shell Script to concatenate the n1-n5 lines of File1 and n8-n15 Lines of File2 to file3
+using proper filter command of head and tail.
+
+ii)Write a Shell Script that accepts valid login names as arguments and print their corresponding home directories using grep command (use  /etc/passwd to search Login name).
