@@ -1,0 +1,4 @@
+1.Write a C program to emulate the ls command using stat and lstat API functions  .Print File type, permission etc all the attributes.
+2.Perform reverse reading of a file by using lseek API. Pass the File parameter as a command Line argument.
+3.Perform File copy operation using read and write API .Open the file in appropriate mode if it doesn't exist 
+create the file using OPEN API (set appropriate flags  reading and writing of file) and perform copy operation of one file to another.
